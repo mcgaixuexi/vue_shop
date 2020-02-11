@@ -6,3 +6,18 @@ body,
     margin: 0;
     padding: 0;
 }
+.el-breadcrumb {
+    margin-bottom: .9375rem;
+    font-size: .75rem;
+}
+.el-card {
+    box-shadow: 0 .0625rem .0625rem rgba(0, 0, 0, 0.15) !important;
+}
+.el-table {
+    margin-top: .9375rem;
+    font-size: .75rem;
+}
+
+.el-pagination {
+    margin-top: .9375rem;
+}
