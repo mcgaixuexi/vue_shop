@@ -82,7 +82,7 @@ export default {
     async getMenuList() {
       const { data: res } = await this.$http.get('menus')
       if (res.meta.status !== 200) return this.$message.error(res.meta.msg)
-      console.log(res)
+      // console.log(res)
       this.menulist = res.data
     },
     toggleCollapse() {
