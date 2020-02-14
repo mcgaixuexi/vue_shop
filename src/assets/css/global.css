@@ -22,3 +22,12 @@ body,
 .el-pagination {
     margin-top: .9375rem;
 }
+.el-cascader-menu {
+    height: 300px;
+  }
+.el-radio {
+    color: #606266;
+    cursor: pointer;
+    visibility: hidden; 
+    margin-right: 30px;
+}
