@@ -31,3 +31,12 @@ body,
     visibility: hidden; 
     margin-right: 30px;
 }
+.el-steps {
+    margin: .9375rem 0;
+}
+.el-step__title {
+    font-size: .8125rem;
+}
+.ql-editor {
+    min-height: 18.75rem;
+}
